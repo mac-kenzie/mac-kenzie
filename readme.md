@@ -1,5 +1,5 @@
 <p float="left">
-    <img align="left" width="250px" src="./images/i-love-chopper.png">
+    <img align="left" width="250px" src="./images/black-clouds.jpg">
     <p float="left">
         <samp>
             what i know
